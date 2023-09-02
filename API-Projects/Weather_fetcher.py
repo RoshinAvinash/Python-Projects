@@ -1,6 +1,6 @@
 import requests
 
-#Here put your own API key, generate it in openweatherapi.com website
+#Here put your own API key, generate it in openweathermap.org website
 API_KEY = ""
 
 #Where we are sending the request to: 
