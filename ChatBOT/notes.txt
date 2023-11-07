@@ -1,0 +1,11 @@
+How does a ChatBOT work?
+- Since we are developing a chatbot with python using ML
+-we need to train our own model
+-In this example creating our own dataset
+
+-----------------------------------------------
+JSON?
+-JSON is a file format that uses human-readable language to store and communicate data objects
+-JSON (JavaScript Object Notation) is defined as a file format used in object-oriented programming that uses human-readable language, text, and syntax to store and communicate data objects between applications.
+-JSON is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays
+------------------------------------------------
